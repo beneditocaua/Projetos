@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="parcialis.css">
+    <title>Prova parcial</title>
+</head>
+
+<body>
+    <main>
+        <section class="lateral">
+
+            <h4>SAÚDE</h4>
+            <BR>
+            <h1>Calculadora de IMC</h1>
+
+            <h3>Índice de Massa Corporal</h3>
+<BR>
+<BR>
+<hr>
+<BR>
+<BR>
+
+            <h4 class="classif">CLASSIFICAÇÕES OMS</h4>
+
+
+            <ul>
+                <li>Abaixo do peso - &lt; 18,5</li>
+                <li>Peso normal - 18,5 até 24,9</li>
+                <li>Sobrepeso - 25 até 29,9</li>
+                <li>Obesidade I - 30 até 34,9</li>
+                <li>Obesidade II/III - &gt; 35</li>
+            </ul> <BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR><BR>
+            <p>
+                O IMC é uma estimativa. Para avaliação completa,<br>
+                consulte um profissional de saúde.
+            </p>
+
+        </section>
+
+
+        <section class="preenchimento">
+
+            <form class="calc-info">
+
+                <div>
+
+                    <label>SEXO BIOLÓGICO</label>
+                    <br><br>
+
+                    <input type="radio" name="sexo" id="Masculino" required>
+                    <label for="Masculino">Masculino</label>
+
+                    <input type="radio" name="sexo" id="Feminino" required>
+                    <label for="Feminino">Feminino</label>
+
+                </div>
+
+                <br>
+
+                <div>
+
+                    <label for="Idade">IDADE</label>
+                    <br><br>
+
+                    <input type="number" id="Idade" placeholder="Ex: 18">
+
+                </div>
+
+                <br>
+
+                <div>
+
+                    <label for="Altura">ALTURA</label>
+                    <br><br>
+
+                    <input type="number" id="Altura" placeholder="Ex: 1.70m">
+
+                </div>
+
+                <br>
+
+                <div>
+
+                    <label for="Peso">PESO</label>
+                    <br><br>
+
+                    <input type="number" id="Peso" placeholder="Ex: 70kg">
+
+                </div>
+
+                <br>
+
+                <button type="button" onclick="calcularIMC()">
+                    Calcular IMC
+                </button>
+
+                
+                <br>
+                
+                <progress id="Progresso" value="0" max="100"></progress>
+                
+                <br><br>
+                
+                
+                <div id="Resultado">
+                    O resultado aparecerá aqui.
+                </div>
+            </form>
+
+        </section>
+
+    </main>
+</body>
+<script src="parcial.js"></script>
+
+</html>
