@@ -1,7 +1,7 @@
-# Olá! 👋 Eu sou Benedito Cauã de Sousa Dias
+# Olá! 👋 me chamo Cauã e seja bem-vindo (a) ao meu perfil
 
 💻 Estudante de Desenvolvimento de Sistemas  
-🎓 Cursando o 2º ano do Ensino Médio Profissional  
+🎓 Técnico em andamento em Desenvolvimento de Sistemas 
 🚀 Desenvolvedor Full Stack em formação  
 📍 Ceará - BR
 
