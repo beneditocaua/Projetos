@@ -1,4 +1,4 @@
-# Olá! 👋 me chamo Cauã e seja bem-vindo (a) ao meu perfil
+# Olá! 👋 Me chamo Cauã e seja bem-vindo(a)
 
 💻 Estudante de Desenvolvimento de Sistemas  
 🎓 Técnico em andamento em Desenvolvimento de Sistemas 
