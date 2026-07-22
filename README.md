@@ -9,9 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Desenvolvimento de Sistemas**, apaixonado por tecnologia e programação. Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e aprimorar minhas habilidades para construir soluções que façam a diferença.
-
-Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimento de software e crescer profissionalmente como desenvolvedor.
+Sou apaixonado por tecnologia e programação. Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e aprimorar minhas habilidades para construir soluções que façam a diferença.
 
 ---
 
