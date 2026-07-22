@@ -26,10 +26,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimen
 ## 📚 Atualmente aprendendo
 
 - Programação Orientada a Objetos (POO)
-- JavaScript
-- Banco de Dados (SQL)
 - Git e GitHub
-- Desenvolvimento Web
 - APIs
 - Responsividade
 
@@ -42,7 +39,7 @@ Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimen
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://github.com/SEU-USUARIO">
+<a href="https://github.com/beneditocaua/Projetos.git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
