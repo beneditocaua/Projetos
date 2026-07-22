@@ -35,18 +35,6 @@ Meu objetivo é conquistar minha primeira oportunidade na área de desenvolvimen
 
 ---
 
-## 📌 Projetos
-
-Em breve você encontrará aqui projetos como:
-
-- 🌐 Sites Responsivos
-- 🛒 Sistema de Pedidos
-- 📱 Landing Pages
-- 🐍 Projetos em Python
-- 📊 Sistemas com Banco de Dados
-
----
-
 ## 🌎 Vamos nos conectar
 
 <p align="left">
