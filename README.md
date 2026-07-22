@@ -1,8 +1,11 @@
 # Olá! 👋 Me chamo Cauã e seja bem-vindo(a)
 
 💻 Estudante de Desenvolvimento de Sistemas
+
 🎓 Técnico em andamento em Desenvolvimento de Sistemas
-🚀 Desenvolvedor Full Stack em formação
+
+🚀 Desenvolvedor Full Stack em andamento
+
 📍 Ceará - BR
 
 ---
@@ -21,7 +24,7 @@ Sou apaixonado por tecnologia e programação. Estou sempre buscando aprender no
 
 ---
 
-## 📚 aprendendo
+## 📚 Aprendendo
 
 - Programação Orientada a Objetos (POO)
 - Git e GitHub
