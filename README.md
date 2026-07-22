@@ -3,13 +3,13 @@
 💻 Estudante de Desenvolvimento de Sistemas  
 🎓 Cursando o 2º ano do Ensino Médio Profissional  
 🚀 Desenvolvedor Full Stack em formação  
-📍 Brasil
+📍 Ceará - BR
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Sou apaixonado por tecnologia e programação. Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e aprimorar minhas habilidades para construir soluções que façam a diferença.
+Sou apaixonado por tecnologia e programação. Estou sempre buscando aprender novas tecnologias, desenvolver projetos práticos e aprimorar minhas habilidades para construir soluções que façam a diferença. Tenho conhecimento em Python (básico/intermediário), Lógica de programação, Noções de hardware e manutenção básica em computadores. Possuo um domínio do Microsoft Office(Exel, Word e PowerPoint), domínio do Google Workspace (Google Docs, Planilhas e Apresentações).
 
 ---
 
@@ -21,7 +21,7 @@ Sou apaixonado por tecnologia e programação. Estou sempre buscando aprender no
 
 ---
 
-## 📚 Atualmente aprendendo
+## 📚 aprendendo
 
 - Programação Orientada a Objetos (POO)
 - Git e GitHub
