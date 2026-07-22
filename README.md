@@ -1,8 +1,8 @@
 # Olá! 👋 Me chamo Cauã e seja bem-vindo(a)
 
-💻 Estudante de Desenvolvimento de Sistemas
+💻 Estudante de Desenvolvimento de Sistemas 
 🎓 Técnico em andamento em Desenvolvimento de Sistemas 
-🚀 Desenvolvedor Full Stack em formação  
+🚀 Desenvolvedor Full Stack em formação   
 📍 Ceará - BR
 
 ---
